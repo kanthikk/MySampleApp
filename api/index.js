@@ -1,6 +1,6 @@
 export default function handler(req, res) {
   res.status(200).send(`
-    <h1>Hello from Node.js on Vercel 🚀</h1>
-    <p>It works!</p>
+    <h1>HELLO EVERYBODY</h1>
+    <p>A Warm welcome. Greetings from Kanthi, Usha and Akshith krishna karanam</p>
   `);
 }
